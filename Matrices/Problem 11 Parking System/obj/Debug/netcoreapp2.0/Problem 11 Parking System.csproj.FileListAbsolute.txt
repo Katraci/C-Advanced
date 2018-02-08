@@ -1,0 +1,10 @@
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\bin\Debug\netcoreapp2.0\Problem 11 Parking System.deps.json
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\bin\Debug\netcoreapp2.0\Problem 11 Parking System.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\bin\Debug\netcoreapp2.0\Problem 11 Parking System.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\bin\Debug\netcoreapp2.0\Problem 11 Parking System.dll
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\bin\Debug\netcoreapp2.0\Problem 11 Parking System.pdb
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\obj\Debug\netcoreapp2.0\Problem 11 Parking System.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\obj\Debug\netcoreapp2.0\Problem 11 Parking System.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\obj\Debug\netcoreapp2.0\Problem 11 Parking System.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\obj\Debug\netcoreapp2.0\Problem 11 Parking System.dll
+D:\SoftUni\C#\Matrices\Problem 11 Parking System\obj\Debug\netcoreapp2.0\Problem 11 Parking System.pdb

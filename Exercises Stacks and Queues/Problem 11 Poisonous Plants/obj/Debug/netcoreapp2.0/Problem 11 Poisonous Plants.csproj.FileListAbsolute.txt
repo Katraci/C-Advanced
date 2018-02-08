@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.deps.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.runtimeconfig.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.dll
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.dll
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 11 Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11 Poisonous Plants.pdb

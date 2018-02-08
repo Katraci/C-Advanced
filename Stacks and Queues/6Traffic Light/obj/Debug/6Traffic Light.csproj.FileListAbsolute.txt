@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Stacks and Queues\6Traffic Light\bin\Debug\6Traffic Light.exe.config
+D:\SoftUni\C#\Stacks and Queues\6Traffic Light\bin\Debug\6Traffic Light.exe
+D:\SoftUni\C#\Stacks and Queues\6Traffic Light\bin\Debug\6Traffic Light.pdb
+D:\SoftUni\C#\Stacks and Queues\6Traffic Light\obj\Debug\6Traffic Light.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Stacks and Queues\6Traffic Light\obj\Debug\6Traffic Light.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Stacks and Queues\6Traffic Light\obj\Debug\6Traffic Light.exe
+D:\SoftUni\C#\Stacks and Queues\6Traffic Light\obj\Debug\6Traffic Light.pdb

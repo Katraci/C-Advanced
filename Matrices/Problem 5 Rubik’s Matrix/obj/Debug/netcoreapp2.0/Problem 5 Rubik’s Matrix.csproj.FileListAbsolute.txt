@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.deps.json
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.dll
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.pdb
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.dll
+D:\SoftUni\C#\Matrices\Problem 5 Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5 Rubik’s Matrix.pdb

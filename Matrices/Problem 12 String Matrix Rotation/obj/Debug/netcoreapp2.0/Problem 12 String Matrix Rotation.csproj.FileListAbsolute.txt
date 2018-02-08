@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\bin\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.deps.json
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\bin\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\bin\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\bin\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.dll
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\bin\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.pdb
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\obj\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\obj\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\obj\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\obj\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\obj\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.dll
+D:\SoftUni\C#\Matrices\Problem 12 String Matrix Rotation\obj\Debug\netcoreapp2.0\Problem 12 String Matrix Rotation.pdb

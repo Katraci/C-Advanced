@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\bin\Debug\netcoreapp2.0\Problem 5 Slicing File.deps.json
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\bin\Debug\netcoreapp2.0\Problem 5 Slicing File.runtimeconfig.json
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\bin\Debug\netcoreapp2.0\Problem 5 Slicing File.runtimeconfig.dev.json
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\bin\Debug\netcoreapp2.0\Problem 5 Slicing File.dll
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\bin\Debug\netcoreapp2.0\Problem 5 Slicing File.pdb
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\obj\Debug\netcoreapp2.0\Problem 5 Slicing File.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\obj\Debug\netcoreapp2.0\Problem 5 Slicing File.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\obj\Debug\netcoreapp2.0\Problem 5 Slicing File.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\obj\Debug\netcoreapp2.0\Problem 5 Slicing File.AssemblyInfo.cs
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\obj\Debug\netcoreapp2.0\Problem 5 Slicing File.dll
+D:\SoftUni\C#\Streams and Files\Problem 5 Slicing File\obj\Debug\netcoreapp2.0\Problem 5 Slicing File.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.deps.json
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.dll
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.pdb
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.dll
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.pdb
+D:\SoftUni\C#\Matrices\Problem 8 Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8 Radioactive Mutant Vampire Bunnies.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.deps.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.runtimeconfig.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.dll
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.dll
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 8 Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8 Recursive Fibonacci.pdb

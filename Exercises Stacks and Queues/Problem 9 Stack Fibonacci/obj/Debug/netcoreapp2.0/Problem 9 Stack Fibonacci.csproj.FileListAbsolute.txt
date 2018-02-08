@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.deps.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.runtimeconfig.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.dll
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.dll
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 9 Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9 Stack Fibonacci.pdb

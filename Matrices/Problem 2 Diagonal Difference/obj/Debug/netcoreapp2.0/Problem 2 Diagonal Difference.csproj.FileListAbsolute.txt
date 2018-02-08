@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.deps.json
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.dll
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.pdb
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.dll
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.pdb
+D:\SoftUni\C#\Matrices\Problem 2 Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2 Diagonal Difference.csprojResolveAssemblyReference.cache

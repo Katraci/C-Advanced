@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\bin\Debug\netcoreapp2.0\Problem 6 Target Practice.deps.json
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\bin\Debug\netcoreapp2.0\Problem 6 Target Practice.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\bin\Debug\netcoreapp2.0\Problem 6 Target Practice.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\bin\Debug\netcoreapp2.0\Problem 6 Target Practice.dll
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\bin\Debug\netcoreapp2.0\Problem 6 Target Practice.pdb
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\obj\Debug\netcoreapp2.0\Problem 6 Target Practice.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\obj\Debug\netcoreapp2.0\Problem 6 Target Practice.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\obj\Debug\netcoreapp2.0\Problem 6 Target Practice.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\obj\Debug\netcoreapp2.0\Problem 6 Target Practice.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\obj\Debug\netcoreapp2.0\Problem 6 Target Practice.dll
+D:\SoftUni\C#\Matrices\Problem 6 Target Practice\obj\Debug\netcoreapp2.0\Problem 6 Target Practice.pdb

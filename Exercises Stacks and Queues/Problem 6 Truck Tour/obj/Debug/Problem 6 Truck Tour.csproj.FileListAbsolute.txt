@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 6 Truck Tour\bin\Debug\Problem 6 Truck Tour.exe.config
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 6 Truck Tour\bin\Debug\Problem 6 Truck Tour.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 6 Truck Tour\bin\Debug\Problem 6 Truck Tour.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 6 Truck Tour\obj\Debug\Problem 6 Truck Tour.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 6 Truck Tour\obj\Debug\Problem 6 Truck Tour.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 6 Truck Tour\obj\Debug\Problem 6 Truck Tour.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 6 Truck Tour\obj\Debug\Problem 6 Truck Tour.pdb

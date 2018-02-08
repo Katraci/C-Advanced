@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7 Predicate for Names.deps.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7 Predicate for Names.runtimeconfig.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7 Predicate for Names.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7 Predicate for Names.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7 Predicate for Names.pdb
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7 Predicate for Names.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7 Predicate for Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7 Predicate for Names.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7 Predicate for Names.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7 Predicate for Names.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 7 Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7 Predicate for Names.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4 Maximal Sum.deps.json
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4 Maximal Sum.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4 Maximal Sum.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4 Maximal Sum.dll
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4 Maximal Sum.pdb
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4 Maximal Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4 Maximal Sum.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4 Maximal Sum.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4 Maximal Sum.dll
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4 Maximal Sum.pdb
+D:\SoftUni\C#\Matrices\Problem 4 Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4 Maximal Sum.csprojResolveAssemblyReference.cache

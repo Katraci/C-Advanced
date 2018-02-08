@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\bin\Debug\netcoreapp2.0\4 Pascal Triangle.deps.json
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\bin\Debug\netcoreapp2.0\4 Pascal Triangle.runtimeconfig.json
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\bin\Debug\netcoreapp2.0\4 Pascal Triangle.runtimeconfig.dev.json
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\bin\Debug\netcoreapp2.0\4 Pascal Triangle.dll
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\bin\Debug\netcoreapp2.0\4 Pascal Triangle.pdb
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\obj\Debug\netcoreapp2.0\4 Pascal Triangle.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\obj\Debug\netcoreapp2.0\4 Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\obj\Debug\netcoreapp2.0\4 Pascal Triangle.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\obj\Debug\netcoreapp2.0\4 Pascal Triangle.AssemblyInfo.cs
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\obj\Debug\netcoreapp2.0\4 Pascal Triangle.dll
+D:\SoftUni\C#\Multidimensional Arrays\4 Pascal Triangle\obj\Debug\netcoreapp2.0\4 Pascal Triangle.pdb

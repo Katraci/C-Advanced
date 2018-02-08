@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.deps.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.runtimeconfig.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.dll
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.dll
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 7 Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7 Balanced Parentheses.pdb

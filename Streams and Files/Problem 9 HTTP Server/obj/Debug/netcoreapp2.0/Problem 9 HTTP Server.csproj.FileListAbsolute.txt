@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\obj\Debug\netcoreapp2.0\Problem 9 HTTP Server.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\obj\Debug\netcoreapp2.0\Problem 9 HTTP Server.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\obj\Debug\netcoreapp2.0\Problem 9 HTTP Server.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\obj\Debug\netcoreapp2.0\Problem 9 HTTP Server.AssemblyInfo.cs
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\bin\Debug\netcoreapp2.0\Problem 9 HTTP Server.deps.json
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\bin\Debug\netcoreapp2.0\Problem 9 HTTP Server.runtimeconfig.json
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\bin\Debug\netcoreapp2.0\Problem 9 HTTP Server.runtimeconfig.dev.json
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\bin\Debug\netcoreapp2.0\Problem 9 HTTP Server.dll
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\bin\Debug\netcoreapp2.0\Problem 9 HTTP Server.pdb
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\obj\Debug\netcoreapp2.0\Problem 9 HTTP Server.dll
+D:\SoftUni\C#\Streams and Files\Problem 9 HTTP Server\obj\Debug\netcoreapp2.0\Problem 9 HTTP Server.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 1 Reverse Numbers with a Stack\bin\Debug\Problem 1 Reverse Numbers with a Stack.exe.config
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 1 Reverse Numbers with a Stack\bin\Debug\Problem 1 Reverse Numbers with a Stack.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 1 Reverse Numbers with a Stack\bin\Debug\Problem 1 Reverse Numbers with a Stack.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 1 Reverse Numbers with a Stack\obj\Debug\Problem 1 Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 1 Reverse Numbers with a Stack\obj\Debug\Problem 1 Reverse Numbers with a Stack.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 1 Reverse Numbers with a Stack\obj\Debug\Problem 1 Reverse Numbers with a Stack.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 1 Reverse Numbers with a Stack\obj\Debug\Problem 1 Reverse Numbers with a Stack.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp2.0\1 Sum Matrix Elements.deps.json
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp2.0\1 Sum Matrix Elements.runtimeconfig.json
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp2.0\1 Sum Matrix Elements.runtimeconfig.dev.json
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp2.0\1 Sum Matrix Elements.dll
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp2.0\1 Sum Matrix Elements.pdb
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp2.0\1 Sum Matrix Elements.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp2.0\1 Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp2.0\1 Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp2.0\1 Sum Matrix Elements.AssemblyInfo.cs
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp2.0\1 Sum Matrix Elements.dll
+D:\SoftUni\C#\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp2.0\1 Sum Matrix Elements.pdb

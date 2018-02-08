@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 4 Basic Queue Operations\bin\Debug\Problem 4 Basic Queue Operations.exe.config
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 4 Basic Queue Operations\bin\Debug\Problem 4 Basic Queue Operations.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 4 Basic Queue Operations\bin\Debug\Problem 4 Basic Queue Operations.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 4 Basic Queue Operations\obj\Debug\Problem 4 Basic Queue Operations.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 4 Basic Queue Operations\obj\Debug\Problem 4 Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 4 Basic Queue Operations\obj\Debug\Problem 4 Basic Queue Operations.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 4 Basic Queue Operations\obj\Debug\Problem 4 Basic Queue Operations.pdb

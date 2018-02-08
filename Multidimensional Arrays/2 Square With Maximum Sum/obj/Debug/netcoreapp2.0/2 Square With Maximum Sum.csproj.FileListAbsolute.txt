@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\bin\Debug\netcoreapp2.0\2 Square With Maximum Sum.deps.json
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\bin\Debug\netcoreapp2.0\2 Square With Maximum Sum.runtimeconfig.json
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\bin\Debug\netcoreapp2.0\2 Square With Maximum Sum.runtimeconfig.dev.json
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\bin\Debug\netcoreapp2.0\2 Square With Maximum Sum.dll
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\bin\Debug\netcoreapp2.0\2 Square With Maximum Sum.pdb
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\obj\Debug\netcoreapp2.0\2 Square With Maximum Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\obj\Debug\netcoreapp2.0\2 Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\obj\Debug\netcoreapp2.0\2 Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\obj\Debug\netcoreapp2.0\2 Square With Maximum Sum.AssemblyInfo.cs
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\obj\Debug\netcoreapp2.0\2 Square With Maximum Sum.dll
+D:\SoftUni\C#\Multidimensional Arrays\2 Square With Maximum Sum\obj\Debug\netcoreapp2.0\2 Square With Maximum Sum.pdb

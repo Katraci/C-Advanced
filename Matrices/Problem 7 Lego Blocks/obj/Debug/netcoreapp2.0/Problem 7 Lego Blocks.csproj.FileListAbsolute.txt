@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7 Lego Blocks.deps.json
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7 Lego Blocks.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7 Lego Blocks.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7 Lego Blocks.dll
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7 Lego Blocks.pdb
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7 Lego Blocks.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7 Lego Blocks.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7 Lego Blocks.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7 Lego Blocks.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7 Lego Blocks.dll
+D:\SoftUni\C#\Matrices\Problem 7 Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7 Lego Blocks.pdb

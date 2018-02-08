@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Stacks and Queues\4Matching Brackets\bin\Debug\4Matching Brackets.exe.config
+D:\SoftUni\C#\Stacks and Queues\4Matching Brackets\bin\Debug\4Matching Brackets.exe
+D:\SoftUni\C#\Stacks and Queues\4Matching Brackets\bin\Debug\4Matching Brackets.pdb
+D:\SoftUni\C#\Stacks and Queues\4Matching Brackets\obj\Debug\4Matching Brackets.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Stacks and Queues\4Matching Brackets\obj\Debug\4Matching Brackets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Stacks and Queues\4Matching Brackets\obj\Debug\4Matching Brackets.exe
+D:\SoftUni\C#\Stacks and Queues\4Matching Brackets\obj\Debug\4Matching Brackets.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 3 Maximum Element\bin\Debug\Problem 3 Maximum Element.exe.config
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 3 Maximum Element\bin\Debug\Problem 3 Maximum Element.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 3 Maximum Element\bin\Debug\Problem 3 Maximum Element.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 3 Maximum Element\obj\Debug\Problem 3 Maximum Element.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 3 Maximum Element\obj\Debug\Problem 3 Maximum Element.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 3 Maximum Element\obj\Debug\Problem 3 Maximum Element.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 3 Maximum Element\obj\Debug\Problem 3 Maximum Element.pdb

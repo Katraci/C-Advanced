@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\bin\Debug\netcoreapp2.0\Problem 1 Action Point.deps.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\bin\Debug\netcoreapp2.0\Problem 1 Action Point.runtimeconfig.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\bin\Debug\netcoreapp2.0\Problem 1 Action Point.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\bin\Debug\netcoreapp2.0\Problem 1 Action Point.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\bin\Debug\netcoreapp2.0\Problem 1 Action Point.pdb
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\obj\Debug\netcoreapp2.0\Problem 1 Action Point.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\obj\Debug\netcoreapp2.0\Problem 1 Action Point.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\obj\Debug\netcoreapp2.0\Problem 1 Action Point.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\obj\Debug\netcoreapp2.0\Problem 1 Action Point.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\obj\Debug\netcoreapp2.0\Problem 1 Action Point.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 1 Action Point\obj\Debug\netcoreapp2.0\Problem 1 Action Point.pdb

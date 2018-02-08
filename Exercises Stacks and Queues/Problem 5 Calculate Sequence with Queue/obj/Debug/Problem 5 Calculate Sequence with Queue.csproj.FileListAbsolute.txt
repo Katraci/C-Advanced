@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 5 Calculate Sequence with Queue\bin\Debug\Problem 5 Calculate Sequence with Queue.exe.config
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 5 Calculate Sequence with Queue\bin\Debug\Problem 5 Calculate Sequence with Queue.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 5 Calculate Sequence with Queue\bin\Debug\Problem 5 Calculate Sequence with Queue.pdb
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 5 Calculate Sequence with Queue\obj\Debug\Problem 5 Calculate Sequence with Queue.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 5 Calculate Sequence with Queue\obj\Debug\Problem 5 Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 5 Calculate Sequence with Queue\obj\Debug\Problem 5 Calculate Sequence with Queue.exe
+D:\SoftUni\C#\Exercises Stacks and Queues\Problem 5 Calculate Sequence with Queue\obj\Debug\Problem 5 Calculate Sequence with Queue.pdb

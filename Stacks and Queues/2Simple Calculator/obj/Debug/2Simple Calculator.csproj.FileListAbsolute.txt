@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Stacks and Queues\2Simple Calculator\bin\Debug\2Simple Calculator.exe.config
+D:\SoftUni\C#\Stacks and Queues\2Simple Calculator\bin\Debug\2Simple Calculator.exe
+D:\SoftUni\C#\Stacks and Queues\2Simple Calculator\bin\Debug\2Simple Calculator.pdb
+D:\SoftUni\C#\Stacks and Queues\2Simple Calculator\obj\Debug\2Simple Calculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Stacks and Queues\2Simple Calculator\obj\Debug\2Simple Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Stacks and Queues\2Simple Calculator\obj\Debug\2Simple Calculator.exe
+D:\SoftUni\C#\Stacks and Queues\2Simple Calculator\obj\Debug\2Simple Calculator.pdb

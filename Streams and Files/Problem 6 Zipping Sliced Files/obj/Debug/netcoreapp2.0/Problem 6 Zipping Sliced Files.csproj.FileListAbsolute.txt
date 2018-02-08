@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.deps.json
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.runtimeconfig.json
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.runtimeconfig.dev.json
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.dll
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.pdb
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.AssemblyInfo.cs
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.dll
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.pdb
+D:\SoftUni\C#\Streams and Files\Problem 6 Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6 Zipping Sliced Files.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.deps.json
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.runtimeconfig.json
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.runtimeconfig.dev.json
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.dll
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.pdb
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.AssemblyInfo.cs
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.dll
+D:\SoftUni\C#\Matrices\Problem 3 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\Problem 3 2x2 Squares in Matrix.pdb

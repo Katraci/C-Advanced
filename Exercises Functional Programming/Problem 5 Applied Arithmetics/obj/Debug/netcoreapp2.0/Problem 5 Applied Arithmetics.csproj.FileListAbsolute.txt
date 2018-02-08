@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.deps.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.runtimeconfig.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.pdb
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 5 Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5 Applied Arithmetics.pdb

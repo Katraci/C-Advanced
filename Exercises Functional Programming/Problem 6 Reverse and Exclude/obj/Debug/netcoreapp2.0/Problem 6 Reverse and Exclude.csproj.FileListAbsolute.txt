@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\bin\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.deps.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\bin\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.runtimeconfig.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\bin\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\bin\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\bin\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.pdb
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\obj\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\obj\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\obj\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\obj\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\obj\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 6 Reverse and Exclude\obj\Debug\netcoreapp2.0\Problem 6 Reverse and Exclude.pdb

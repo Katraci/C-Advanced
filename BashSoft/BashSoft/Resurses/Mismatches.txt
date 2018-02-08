@@ -1,0 +1,10 @@
+Mismash at line 0 -- expected: "Some data not" , actual: "Some data"
+
+Some more data 
+
+Mismash at line 2 -- expected: "more da 21 ta" , actual: "more data"
+
+data
+
+Mismash at line 4 -- expected: "and againd data" , actual: "and again data"
+

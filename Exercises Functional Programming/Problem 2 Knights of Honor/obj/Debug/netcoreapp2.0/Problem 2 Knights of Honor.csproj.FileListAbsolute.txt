@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\bin\Debug\netcoreapp2.0\Problem 2 Knights of Honor.deps.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\bin\Debug\netcoreapp2.0\Problem 2 Knights of Honor.runtimeconfig.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\bin\Debug\netcoreapp2.0\Problem 2 Knights of Honor.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\bin\Debug\netcoreapp2.0\Problem 2 Knights of Honor.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\bin\Debug\netcoreapp2.0\Problem 2 Knights of Honor.pdb
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\obj\Debug\netcoreapp2.0\Problem 2 Knights of Honor.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\obj\Debug\netcoreapp2.0\Problem 2 Knights of Honor.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\obj\Debug\netcoreapp2.0\Problem 2 Knights of Honor.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\obj\Debug\netcoreapp2.0\Problem 2 Knights of Honor.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\obj\Debug\netcoreapp2.0\Problem 2 Knights of Honor.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 2 Knights of Honor\obj\Debug\netcoreapp2.0\Problem 2 Knights of Honor.pdb

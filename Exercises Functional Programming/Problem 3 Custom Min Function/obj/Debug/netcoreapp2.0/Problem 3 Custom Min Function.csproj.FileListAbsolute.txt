@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\bin\Debug\netcoreapp2.0\Problem 3 Custom Min Function.deps.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\bin\Debug\netcoreapp2.0\Problem 3 Custom Min Function.runtimeconfig.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\bin\Debug\netcoreapp2.0\Problem 3 Custom Min Function.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\bin\Debug\netcoreapp2.0\Problem 3 Custom Min Function.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\bin\Debug\netcoreapp2.0\Problem 3 Custom Min Function.pdb
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\obj\Debug\netcoreapp2.0\Problem 3 Custom Min Function.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\obj\Debug\netcoreapp2.0\Problem 3 Custom Min Function.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\obj\Debug\netcoreapp2.0\Problem 3 Custom Min Function.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\obj\Debug\netcoreapp2.0\Problem 3 Custom Min Function.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\obj\Debug\netcoreapp2.0\Problem 3 Custom Min Function.pdb
+D:\SoftUni\C#\Exercises Functional Programming\Problem 3 Custom Min Function\obj\Debug\netcoreapp2.0\Problem 3 Custom Min Function.csprojResolveAssemblyReference.cache

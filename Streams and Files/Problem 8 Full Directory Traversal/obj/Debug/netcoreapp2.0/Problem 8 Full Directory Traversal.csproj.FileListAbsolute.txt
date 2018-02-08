@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\bin\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.deps.json
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\bin\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.runtimeconfig.json
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\bin\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.runtimeconfig.dev.json
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\bin\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.dll
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\bin\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.pdb
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\obj\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\obj\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\obj\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\obj\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.AssemblyInfo.cs
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\obj\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.dll
+D:\SoftUni\C#\Streams and Files\Problem 8 Full Directory Traversal\obj\Debug\netcoreapp2.0\Problem 8 Full Directory Traversal.pdb

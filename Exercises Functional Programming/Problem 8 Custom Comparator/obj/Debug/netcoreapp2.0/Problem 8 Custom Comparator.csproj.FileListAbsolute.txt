@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8 Custom Comparator.deps.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8 Custom Comparator.runtimeconfig.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8 Custom Comparator.runtimeconfig.dev.json
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8 Custom Comparator.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8 Custom Comparator.pdb
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8 Custom Comparator.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8 Custom Comparator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8 Custom Comparator.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8 Custom Comparator.AssemblyInfo.cs
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8 Custom Comparator.dll
+D:\SoftUni\C#\Exercises Functional Programming\Problem 8 Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8 Custom Comparator.pdb

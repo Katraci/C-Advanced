@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\bin\Debug\netcoreapp2.0\Problem 1 Odd Lines.deps.json
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\bin\Debug\netcoreapp2.0\Problem 1 Odd Lines.runtimeconfig.json
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\bin\Debug\netcoreapp2.0\Problem 1 Odd Lines.runtimeconfig.dev.json
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\bin\Debug\netcoreapp2.0\Problem 1 Odd Lines.dll
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\bin\Debug\netcoreapp2.0\Problem 1 Odd Lines.pdb
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\obj\Debug\netcoreapp2.0\Problem 1 Odd Lines.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\obj\Debug\netcoreapp2.0\Problem 1 Odd Lines.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\obj\Debug\netcoreapp2.0\Problem 1 Odd Lines.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\obj\Debug\netcoreapp2.0\Problem 1 Odd Lines.AssemblyInfo.cs
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\obj\Debug\netcoreapp2.0\Problem 1 Odd Lines.dll
+D:\SoftUni\C#\Streams and Files\Problem 1 Odd Lines\obj\Debug\netcoreapp2.0\Problem 1 Odd Lines.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\C#\Stacks and Queues\6Math Potato\bin\Debug\6Math Potato.exe.config
+D:\SoftUni\C#\Stacks and Queues\6Math Potato\bin\Debug\6Math Potato.exe
+D:\SoftUni\C#\Stacks and Queues\6Math Potato\bin\Debug\6Math Potato.pdb
+D:\SoftUni\C#\Stacks and Queues\6Math Potato\obj\Debug\6Math Potato.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\Stacks and Queues\6Math Potato\obj\Debug\6Math Potato.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Stacks and Queues\6Math Potato\obj\Debug\6Math Potato.exe
+D:\SoftUni\C#\Stacks and Queues\6Math Potato\obj\Debug\6Math Potato.pdb
